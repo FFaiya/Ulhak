@@ -1,4 +1,4 @@
-I fuckin hate Javascript
+
 
 
 <!---
